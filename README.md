@@ -12,8 +12,8 @@ We will create a dengue information website that shows the predictions of dengue
 
 
 ## Data Description:
-1. To predict number of dengue cases: We used web scrapping in order to find the number of monthly dengue cases and climate details (precipitation, humidity and temperature) in    Delhi. 
-2. To obtain sattelite data: We used QGIS to extract Senital 2 sattelite images
+1. To predict number of dengue cases- We used web scrapping in order to find the number of monthly dengue cases and climate details (precipitation, humidity and temperature) in    Delhi. 
+2. To obtain sattelite data- We used QGIS to extract Senital 2 sattelite images
 
 
 ## Model Description:
