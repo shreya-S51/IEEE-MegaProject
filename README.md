@@ -3,7 +3,7 @@
 **Domain:** Machine Learning           
 **Project Name:** Tackling Dengue Cases
 
-## PROJECT DESCRIPTION:
+## Project Description:
 **The Problem:**
 Dengue has worsened in Delhi with more than 5,000 cases in 2021, making it the highest number of cases of vector-borne disease recorded in the city in a year since 2015. Dengue is spread to people through the bite of an infected Aedes species mosquito which breeds in damp locations and stagnant water pools.
 
