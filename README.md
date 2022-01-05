@@ -37,10 +37,10 @@ We will create a dengue information website that shows the predictions of dengue
 Name: Mollika Garg                                                      
 Github Link: https://github.com/mollikagarg
 
-Name: Shreya Sharma
+Name: Shreya Sharma                 
 Github Link: https://github.com/shreya-S51
 
-Name: Koushiki Chakrabarti
+Name: Koushiki Chakrabarti                     
 Github Link: https://github.com/kc2409
   
 
