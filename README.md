@@ -27,11 +27,23 @@ We will create a dengue information website that shows the predictions of dengue
  
 
 ## Result:
-| <img src="![20](https://user-images.githubusercontent.com/91798475/148248362-fe39e07c-54b1-4ade-a064-2adad609a34f.jpg)" width="20%"/>| ![19](https://user-images.githubusercontent.com/91798475/148247684-3d10f868-871a-49f5-8831-0b954db552a2.JPG)| ![21](https://user-images.githubusercontent.com/91798475/148248904-673e4264-e4a6-47b5-b1b6-cbb78b6065e7.jpg)| 
-| :---: | :---: | :---: |
-| **Dengue Cases** | **Hotspots** | **Malaria Cases** |
-|Graph showing comparison of actual dengue cases and predicted dengue cases | Map showing dengue and malaria hotspots | Graph showing comparison of actual malaria cases and predicted malaria cases |
-
+<table width="100%">
+<tr>
+<td width="33.5%"><img src="https://user-images.githubusercontent.com/91798475/148248362-fe39e07c-54b1-4ade-a064-2adad609a34f.jpg" width="100%"/></td>
+<td width="33%"><img src="https://user-images.githubusercontent.com/91798475/148247684-3d10f868-871a-49f5-8831-0b954db552a2.JPG" width="100%"/></td>
+<td width="33.5%"><img src="https://user-images.githubusercontent.com/91798475/148248904-673e4264-e4a6-47b5-b1b6-cbb78b6065e7.jpg" width="100%"/></td>
+</tr>
+<tr>
+     <td> <b>Dengue Cases</b></td>
+     <td> <b>Hotspots</b></td>
+     <td> <b>Malaria Cases</b></td>
+</tr>
+<tr>
+     <td> Graph showing comparison of actual dengue cases and predicted dengue cases</td>
+     <td> Map showing dengue and malaria hotspots</td>
+     <td> Graph showing comparison of actual malaria cases and predicted malaria cases</td>
+</tr>
+</table>
 
 ## Team Contributors:
 Name: Mollika Garg                                                      
