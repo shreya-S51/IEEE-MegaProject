@@ -35,13 +35,13 @@ We will create a dengue information website that shows the predictions of dengue
 </tr>
 <tr>
      <td align="center" > <b>Dengue Cases</b></td>
-     <td> <b>Hotspots</b></td>
-     <td> <b>Malaria Cases</b></td>
+     <td align="center" > <b>Hotspots</b></td>
+     <td align="center" > <b>Malaria Cases</b></td>
 </tr>
 <tr>
-     <td> Graph showing comparison of actual dengue cases and predicted dengue cases</td>
-     <td> Map showing dengue and malaria hotspots</td>
-     <td> Graph showing comparison of actual malaria cases and predicted malaria cases</td>
+     <td align="center" > Graph showing comparison of actual dengue cases and predicted dengue cases</td>
+     <td align="center" > Map showing dengue and malaria hotspots</td>
+     <td align="center" > Graph showing comparison of actual malaria cases and predicted malaria cases</td>
 </tr>
 </table>
 
