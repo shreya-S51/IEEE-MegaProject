@@ -26,7 +26,7 @@ We will create a dengue information website that shows the predictions of dengue
  
 
 ## Result:
-| ![18](https://user-images.githubusercontent.com/91798475/148244406-6ba289c0-60bf-42a1-a70e-00aed6cbb52e.JPG)| ![18](https://user-images.githubusercontent.com/91798475/148244406-6ba289c0-60bf-42a1-a70e-00aed6cbb52e.JPG)  | #2  |
+| ![18](https://user-images.githubusercontent.com/91798475/148244406-6ba289c0-60bf-42a1-a70e-00aed6cbb52e.JPG)| ![19](https://user-images.githubusercontent.com/91798475/148247684-3d10f868-871a-49f5-8831-0b954db552a2.JPG)  | #2  |
 | :---:   | :-: | :-: |
 | Seconds | 301 | 283 |
 1. Dengue CASES:                                                     
