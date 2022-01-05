@@ -34,7 +34,7 @@ We will create a dengue information website that shows the predictions of dengue
 <td width="33.5%"><img src="https://user-images.githubusercontent.com/91798475/148248904-673e4264-e4a6-47b5-b1b6-cbb78b6065e7.jpg" width="100%"/></td>
 </tr>
 <tr>
-     <td > <b>Dengue Cases</b></td>
+     <td align="center" > <b>Dengue Cases</b></td>
      <td> <b>Hotspots</b></td>
      <td> <b>Malaria Cases</b></td>
 </tr>
