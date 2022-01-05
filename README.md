@@ -28,13 +28,13 @@ We will create a dengue information website that shows the predictions of dengue
 ## Result:
 | ![20](https://user-images.githubusercontent.com/91798475/148248362-fe39e07c-54b1-4ade-a064-2adad609a34f.jpg)| ![19](https://user-images.githubusercontent.com/91798475/148247684-3d10f868-871a-49f5-8831-0b954db552a2.JPG)| ![21](https://user-images.githubusercontent.com/91798475/148248904-673e4264-e4a6-47b5-b1b6-cbb78b6065e7.jpg)| 
 | :--:   | :--: | :--: |
-| Seconds | Seconds | Seconds |
+| Dengue Cases | Hotspots | Malaria Cases |
+|              |          |               |
 1. Dengue CASES:                                                     
       * We obtained mean absolute error of 64
       * Here is a graph represention of number 
         of actual cases and number of predicted
         cases:
-        ![18](https://user-images.githubusercontent.com/91798475/148244406-6ba289c0-60bf-42a1-a70e-00aed6cbb52e.JPG)
 
 
   
