@@ -26,10 +26,12 @@ We will create a dengue information website that shows the predictions of dengue
  
 
 ## Result:
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| 1. Dengue Cases                              | Second Header |
+| -------------                                | ------------- |
+| * We obtanied mean absolute error of 64      | Content Cell  |
+  * Here is a graph representation of number
+    of actual cases                            
+| Content Cell                                 | Content Cell  |
 1. Dengue CASES:                                                     
       * We obtained mean absolute error of 64
       * Here is a graph represention of number 
