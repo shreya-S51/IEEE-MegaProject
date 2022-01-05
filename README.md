@@ -26,13 +26,9 @@ We will create a dengue information website that shows the predictions of dengue
  
 
 ## Result:
-| Dengue  | 
-| ------------- | 
-| * We obtained mean absolute error of 64. 
-  * Here is a graph represention of number 
-    of actual cases and number of predicted
-    cases:                          |        
-| Content Cell  | 
+| Attempt | #1  | #2  |
+| :---:   | :-: | :-: |
+| Seconds | 301 | 283 |
 1. Dengue CASES:                                                     
       * We obtained mean absolute error of 64
       * Here is a graph represention of number 
