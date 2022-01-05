@@ -29,6 +29,8 @@ We will create a dengue information website that shows the predictions of dengue
 1. Prediction of number of dengue cases in upcoming months:
       * We obtained mean absolute error of 64
       * Here is a graph represention of number of actual cases and number of predicted cases:
+        ![18](https://user-images.githubusercontent.com/91798475/148244406-6ba289c0-60bf-42a1-a70e-00aed6cbb52e.JPG)
+
 
   
 
