@@ -1,8 +1,9 @@
 # Tackling Dengue And Malaria Cases
+![Icon1](https://user-images.githubusercontent.com/91798475/148276972-33566223-ee5c-4e4c-a206-aba43c456853.png)
+
 ## Project Details:
 **Domain:** Machine Learning, Web Development               
 **Project Name:** Malattie Trasmesse
-
 
 ## Project Description:
 **The Problem:** 
