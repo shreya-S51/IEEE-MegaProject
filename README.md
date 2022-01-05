@@ -1,6 +1,6 @@
 # Tackling Dengue And Malaria Cases
 ## Project Details:
-**Domain:** Machine Learning           
+**Domain:** Machine Learning, Web Development               
 **Project Name:** Tackling Dengue And Malaria Cases
 
 ## Project Description:
