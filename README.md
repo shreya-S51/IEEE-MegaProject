@@ -33,7 +33,15 @@ We will create a dengue information website that shows the predictions of dengue
 |We used the dengue data set to train a SVM classifier which includes the following features, year, month, precipitation, humidity, temperature, previous month's dengue cases and number of dengue cases per        month. We used different models such as KNN, Random             Forest and SVM.              | We used QGIS to extract Sentital 2 satellite images. We used Fraction of Absorbed Photosynthetically Active Radiation(FAPAR) to identify areas with vegetation and Normalized Deifference Water Index(NDWI) to identify areas with water. We applied thresholding in order to determine the stagnant water.         | We used the malaria data set to train a SVM classifier which includes the following features, year, month, precipitation, humidity, temperature, previous month's malaria cases and number of malaria cases           per month. We used different models such as KNN,               Random Forest and SVM.             |
 
 
+## Team Contributors:
+Name: Mollika Garg                                                      
+Github Link: https://github.com/mollikagarg
 
+Name: Shreya Sharma
+Github Link: https://github.com/shreya-S51
+
+Name: Koushiki Chakrabarti
+Github Link: https://github.com/kc2409
   
 
 
