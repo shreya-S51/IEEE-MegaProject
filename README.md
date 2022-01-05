@@ -39,7 +39,7 @@ We will create a dengue information website that shows the predictions of dengue
      <td> <b>Malaria Cases</b></td>
 </tr>
 <tr>
-     <td style="text-align: center;> Graph showing comparison of actual dengue cases and predicted dengue cases</td>
+     <td> Graph showing comparison of actual dengue cases and predicted dengue cases</td>
      <td> Map showing dengue and malaria hotspots</td>
      <td> Graph showing comparison of actual malaria cases and predicted malaria cases</td>
 </tr>
