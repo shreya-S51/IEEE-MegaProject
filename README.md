@@ -16,7 +16,7 @@ We will create a dengue information website that shows the predictions of dengue
 ## Data Description:
 1. To predict number of dengue cases- We used web scrapping in order to find the number of monthly dengue cases and climate details (precipitation, humidity and  temperature) in Delhi. 
 2. To predict number of malaria cases- We used web scrapping in order to find the number of monthly malaria cases and climate details (precipitation, humidity and  temperature) in Delhi. 
-3. To obtain sattelite data- We used QGIS to extract Senital 2 sattelite images.
+3. To obtain sattelite data- We used QGIS to extract Senital 2 satellite images.
 
 
 ## Model Description:
@@ -25,7 +25,7 @@ We will create a dengue information website that shows the predictions of dengue
 2. To predict number of malaria cases:
       * We used the malaria data set to train a SVM classifier which includes the following features, year, month, precipitation, humidity, temperature and number of cases           per month. Since this a time series data, so to obtain better results we added a column of previous month's malaria cases. We used different models such as KNN,               Random Forest and SVM. In the end, data trained on KNN gives the best testing result with mean absolute error of 16.7.
 3. To determine stagnant water:
-      * We used QGIS to extract Sentital 2 satellite images. We applied thresholding in order to determine the stagnant water which are potential regions for dengue hotspots. 
+      * We used QGIS to extract Senital 2 satellite images. We applied thresholding in order to determine the stagnant water which are potential regions for dengue hotspots. 
  
 
 ## Result:
