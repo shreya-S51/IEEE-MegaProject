@@ -42,7 +42,7 @@ body {
      font-family: 'Lato', sans-serif;
      line-height: 1.80857;
      font-weight: normal;
-     background:#000000;
+     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
 }
 
 .main-layout {
@@ -292,13 +292,17 @@ button {
 
 .banner_main {
      background: #000000;
-     height:550px;
+     height:600px;
 
 }
 
 .logo {
      padding-bottom: 39px;
-     background:#00FF00;
+     padding-top:0%;
+     margin-left:6%;
+     height:210px;
+     width:210px;
+
 }
 
 .banner_main .titlepage {
@@ -327,11 +331,16 @@ button {
 }
 
 .banner_main_img figure {
-     margin: 0;
+
+     margin-right:5%;
+     margin-top:10%;
+
+
 }
 
 .banner_main_img figure video {
      width: 100%;
+     height:100%;
 
 }
 
@@ -386,8 +395,8 @@ button {
 
 .read_more {
      font-size: 17px;
-     background-color: #1e2426;
-     color: #fff;
+     background-color: white;
+     color: black;
      padding: 13px 0px;
      width: 100%;
      max-width: 190px;
@@ -398,7 +407,7 @@ button {
 }
 
 .read_more:hover {
-     background: #87850f;
+      background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
      color: #fff;
      transition: ease-in all 0.5s;
 }
@@ -409,6 +418,7 @@ button {
 .about {
      background: #000000;
      padding: 90px 0;
+     height:600px;
 }
 
 .about .titlepage {
@@ -440,12 +450,21 @@ button {
 }
 
 .about_img figure img {
-     width:600px;
+     width:550px;
+     height:350px;
+
+
+
+}
+
+.about_img figure video {
+     width:590px;
      height:400px;
 
 
 
 }
+
 
 
 /** end about section **/
@@ -455,6 +474,7 @@ button {
 
 .our {
      background:#000000;
+     height:600px;
 }
 
 .our .titlepage {
@@ -480,12 +500,13 @@ button {
 }
 
 .our_img figure {
-     margin: 0;
+     margin-top: 5%;
      padding:10%;
 }
 
-.our_img figure video {
-     width: 100%;
+.our_img figure img {
+     width:550px;
+     height:350px;
 }
 
 
@@ -724,9 +745,9 @@ button {
 }
 
 .btn {
-  background-color: DodgerBlue;
+  background-color: white;
   border: none;
-  color: white;
+  color: black;
   padding: 12px 30px;
   cursor: pointer;
   font-size: 20px;
@@ -734,7 +755,9 @@ button {
 
 /* Darker background on mouse-over */
 .btn:hover {
-  background-color: RoyalBlue;
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+color:white;
+
 }
 
 
