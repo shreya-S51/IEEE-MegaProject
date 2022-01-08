@@ -760,6 +760,26 @@ color:white;
 
 }
 
+.previous {
+     background-color: black;
+     color: white;
+     float: right;
+    width: 100px;
+    height: 40px;
+    padding-top: 0.5%;
+    padding-left: 1%;
+    font-size: 15px;
+     
+   }
+
+   .previous:hover {
+     background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+     color:black;
+    
+     
+     }
+
+
 
 /** end footer **/
 
