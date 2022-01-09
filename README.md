@@ -80,7 +80,8 @@ pixels having FAPAR index less than .2 are marked as stagnant water
 
 #### STAGNANT WATER AREAS:
 FAPAR and NDWI indexes are combined using and operation to determine the final stagnant water areas
-The folling image displays the predicted water pixels where white pixels represent water regions and back represents land region
+The folling image displays the predicted water pixels where white pixels represent water regions and back represents land region  
+
 <img src="https://user-images.githubusercontent.com/91798475/148656563-215b852f-bf8a-43f1-b433-d7dffe7a9667.png" width="50%"/>
 
 ## Website Link:
