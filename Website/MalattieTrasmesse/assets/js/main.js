@@ -316,14 +316,7 @@
       once: true,
       mirror: false
     })
-  });
-  
-  
-  
-  
-  
-
-  
+  }); 
 
 
 })()
